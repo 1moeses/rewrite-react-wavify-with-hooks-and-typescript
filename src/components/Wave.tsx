@@ -1,4 +1,4 @@
-/* eslint-disable no-use-before-define */
+/* eslint-disable @typescript-eslint/no-use-before-define */
 import React, { useState, useEffect, useRef, useCallback } from 'react'
 import { buildPath } from '../lib/buildPath'
 import { mapRange } from '../lib/mapRange'
